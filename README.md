@@ -1,6 +1,6 @@
 ## Hi I'm Lumen
 
-### My Tech Stack
+#### My Tech Stack
 
 ![csharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
