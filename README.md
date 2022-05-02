@@ -34,6 +34,8 @@
 #### Others
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-535D6C?&logo=nginx)
+![Docker](https://img.shields.io/badge/Docker-535D6C?&logo=Docker)
 
 ---
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -41,4 +43,3 @@
 <p align="center">
 <a href="https://www.luxio.cn/"><img alt="Website" src="https://img.shields.io/badge/Website-www.luxio.xn-blue?style=flat-square&logo=google-chrome"></a>
 </p>
-
