@@ -1,18 +1,19 @@
-## Hi I'm Lumen
+## !Hi I'm Lumen
 
 #### My Tech Stack
 
-![csharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=lat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 #### Backend
 
-![.net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-535D6C?&logo=Spring%20Boot)
 ![FastApi](https://img.shields.io/badge/FastAPI-535D6C?&logo=fastapi)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
 
 #### Frontend
 
@@ -21,8 +22,8 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![webpack](https://img.shields.io/badge/Webpack-535D6C?&logo=webpack)
-![vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Webpack](https://img.shields.io/badge/Webpack-535D6C?&logo=webpack)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 
 #### Database
 
@@ -33,9 +34,11 @@
 
 #### Others
 
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-535D6C?&logo=nginx)
+![Xaml](https://img.shields.io/badge/WPF-535D6C?&logo=XAML)
+![Vagrant](https://img.shields.io/badge/Vagrant-535D6C?&logo=Vagrant)
+![Nginx](https://img.shields.io/badge/Nginx-535D6C?&logo=nginx)
 ![Docker](https://img.shields.io/badge/Docker-535D6C?&logo=Docker)
+![kubernetes](https://img.shields.io/badge/Kubernetes-535D6C?&logo=kubernetes)
 
 ---
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
