@@ -12,7 +12,6 @@
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-535D6C?&logo=Spring%20Boot)
-![FastApi](https://img.shields.io/badge/FastAPI-535D6C?&logo=fastapi)
 
 #### Frontend
 
