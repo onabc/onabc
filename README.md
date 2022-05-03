@@ -13,7 +13,6 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-535D6C?&logo=Spring%20Boot)
 ![FastApi](https://img.shields.io/badge/FastAPI-535D6C?&logo=fastapi)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
 
 #### Frontend
 
@@ -28,13 +27,14 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 #### Others
 
 ![Xaml](https://img.shields.io/badge/WPF-535D6C?&logo=XAML)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-535D6C?&logo=Vagrant)
 ![Nginx](https://img.shields.io/badge/Nginx-535D6C?&logo=nginx)
 ![Docker](https://img.shields.io/badge/Docker-535D6C?&logo=Docker)
