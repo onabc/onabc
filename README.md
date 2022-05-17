@@ -1,4 +1,4 @@
-## !Hi I'm Lumen
+## Hi! I'm Lumen
 
 #### My Tech Stack
 
